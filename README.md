@@ -3,7 +3,7 @@
 - It contains an index called the WBL index which measures the extent of legal equality women have with men in various dimensions of their lives (including marriage, mobility, work, pay etc.)
 - Main indicators: Mobility, Workplace, Pay, Marriage, Parenthood, Entrepreneurship, Assets, and Pension
 
-A visualisation of the analysis can be found [here](file:///Users/izzyabate/Downloads/Women%20in%20Buisness%20Indicators.html).
+A visualisation of the analysis can be found [here](https://emckclac-my.sharepoint.com/:u:/g/personal/k20047713_kcl_ac_uk/EazFMWgpBLdOjOMEt-Hu8vMBtI77dR8OJCfZAJt8fcROIA?e=1NuOFb).
 
 
 
